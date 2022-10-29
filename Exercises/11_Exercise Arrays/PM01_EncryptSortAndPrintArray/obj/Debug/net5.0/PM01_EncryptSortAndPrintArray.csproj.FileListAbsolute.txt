@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM01_EncryptSortAndPrintArray\bin\Debug\net5.0\PM01_EncryptSortAndPrintArray.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM01_EncryptSortAndPrintArray\bin\Debug\net5.0\PM01_EncryptSortAndPrintArray.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM01_EncryptSortAndPrintArray\bin\Debug\net5.0\PM01_EncryptSortAndPrintArray.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM01_EncryptSortAndPrintArray\bin\Debug\net5.0\PM01_EncryptSortAndPrintArray.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM01_EncryptSortAndPrintArray\bin\Debug\net5.0\PM01_EncryptSortAndPrintArray.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM01_EncryptSortAndPrintArray\bin\Debug\net5.0\PM01_EncryptSortAndPrintArray.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM01_EncryptSortAndPrintArray\obj\Debug\net5.0\PM01_EncryptSortAndPrintArray.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM01_EncryptSortAndPrintArray\obj\Debug\net5.0\PM01_EncryptSortAndPrintArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM01_EncryptSortAndPrintArray\obj\Debug\net5.0\PM01_EncryptSortAndPrintArray.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM01_EncryptSortAndPrintArray\obj\Debug\net5.0\PM01_EncryptSortAndPrintArray.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM01_EncryptSortAndPrintArray\obj\Debug\net5.0\PM01_EncryptSortAndPrintArray.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM01_EncryptSortAndPrintArray\obj\Debug\net5.0\PM01_EncryptSortAndPrintArray.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM01_EncryptSortAndPrintArray\obj\Debug\net5.0\refint\PM01_EncryptSortAndPrintArray.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM01_EncryptSortAndPrintArray\obj\Debug\net5.0\PM01_EncryptSortAndPrintArray.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM01_EncryptSortAndPrintArray\obj\Debug\net5.0\PM01_EncryptSortAndPrintArray.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM01_EncryptSortAndPrintArray\obj\Debug\net5.0\ref\PM01_EncryptSortAndPrintArray.dll

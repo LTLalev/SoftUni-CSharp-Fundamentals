@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P08_MagicSum\bin\Debug\net5.0\P08_MagicSum.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P08_MagicSum\bin\Debug\net5.0\P08_MagicSum.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P08_MagicSum\bin\Debug\net5.0\P08_MagicSum.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P08_MagicSum\bin\Debug\net5.0\P08_MagicSum.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P08_MagicSum\bin\Debug\net5.0\P08_MagicSum.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P08_MagicSum\bin\Debug\net5.0\P08_MagicSum.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P08_MagicSum\obj\Debug\net5.0\P08_MagicSum.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P08_MagicSum\obj\Debug\net5.0\P08_MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P08_MagicSum\obj\Debug\net5.0\P08_MagicSum.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P08_MagicSum\obj\Debug\net5.0\P08_MagicSum.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P08_MagicSum\obj\Debug\net5.0\P08_MagicSum.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P08_MagicSum\obj\Debug\net5.0\P08_MagicSum.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P08_MagicSum\obj\Debug\net5.0\refint\P08_MagicSum.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P08_MagicSum\obj\Debug\net5.0\P08_MagicSum.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P08_MagicSum\obj\Debug\net5.0\P08_MagicSum.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P08_MagicSum\obj\Debug\net5.0\ref\P08_MagicSum.dll

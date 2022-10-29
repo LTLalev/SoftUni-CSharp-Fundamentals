@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P05_TeamworkProjects\bin\Debug\net5.0\P05_TeamworkProjects.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P05_TeamworkProjects\bin\Debug\net5.0\P05_TeamworkProjects.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P05_TeamworkProjects\bin\Debug\net5.0\P05_TeamworkProjects.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P05_TeamworkProjects\bin\Debug\net5.0\P05_TeamworkProjects.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P05_TeamworkProjects\bin\Debug\net5.0\P05_TeamworkProjects.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P05_TeamworkProjects\bin\Debug\net5.0\P05_TeamworkProjects.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P05_TeamworkProjects\obj\Debug\net5.0\P05_TeamworkProjects.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P05_TeamworkProjects\obj\Debug\net5.0\P05_TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P05_TeamworkProjects\obj\Debug\net5.0\P05_TeamworkProjects.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P05_TeamworkProjects\obj\Debug\net5.0\P05_TeamworkProjects.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P05_TeamworkProjects\obj\Debug\net5.0\P05_TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P05_TeamworkProjects\obj\Debug\net5.0\P05_TeamworkProjects.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P05_TeamworkProjects\obj\Debug\net5.0\refint\P05_TeamworkProjects.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P05_TeamworkProjects\obj\Debug\net5.0\P05_TeamworkProjects.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P05_TeamworkProjects\obj\Debug\net5.0\P05_TeamworkProjects.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P05_TeamworkProjects\obj\Debug\net5.0\ref\P05_TeamworkProjects.dll

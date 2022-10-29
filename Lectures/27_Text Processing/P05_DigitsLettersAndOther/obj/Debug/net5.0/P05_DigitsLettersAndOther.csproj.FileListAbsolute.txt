@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P05_DigitsLettersAndOther\bin\Debug\net5.0\P05_DigitsLettersAndOther.exe
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P05_DigitsLettersAndOther\bin\Debug\net5.0\P05_DigitsLettersAndOther.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P05_DigitsLettersAndOther\bin\Debug\net5.0\P05_DigitsLettersAndOther.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P05_DigitsLettersAndOther\bin\Debug\net5.0\P05_DigitsLettersAndOther.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P05_DigitsLettersAndOther\bin\Debug\net5.0\P05_DigitsLettersAndOther.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P05_DigitsLettersAndOther\bin\Debug\net5.0\P05_DigitsLettersAndOther.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P05_DigitsLettersAndOther\obj\Debug\net5.0\P05_DigitsLettersAndOther.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P05_DigitsLettersAndOther\obj\Debug\net5.0\P05_DigitsLettersAndOther.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P05_DigitsLettersAndOther\obj\Debug\net5.0\P05_DigitsLettersAndOther.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P05_DigitsLettersAndOther\obj\Debug\net5.0\P05_DigitsLettersAndOther.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P05_DigitsLettersAndOther\obj\Debug\net5.0\P05_DigitsLettersAndOther.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P05_DigitsLettersAndOther\obj\Debug\net5.0\P05_DigitsLettersAndOther.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P05_DigitsLettersAndOther\obj\Debug\net5.0\refint\P05_DigitsLettersAndOther.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P05_DigitsLettersAndOther\obj\Debug\net5.0\P05_DigitsLettersAndOther.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P05_DigitsLettersAndOther\obj\Debug\net5.0\P05_DigitsLettersAndOther.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P05_DigitsLettersAndOther\obj\Debug\net5.0\ref\P05_DigitsLettersAndOther.dll

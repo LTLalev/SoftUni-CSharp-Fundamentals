@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P04_CaesarCipher\bin\Debug\net5.0\P04_CaesarCipher.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P04_CaesarCipher\bin\Debug\net5.0\P04_CaesarCipher.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P04_CaesarCipher\bin\Debug\net5.0\P04_CaesarCipher.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P04_CaesarCipher\bin\Debug\net5.0\P04_CaesarCipher.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P04_CaesarCipher\bin\Debug\net5.0\P04_CaesarCipher.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P04_CaesarCipher\bin\Debug\net5.0\P04_CaesarCipher.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P04_CaesarCipher\obj\Debug\net5.0\P04_CaesarCipher.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P04_CaesarCipher\obj\Debug\net5.0\P04_CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P04_CaesarCipher\obj\Debug\net5.0\P04_CaesarCipher.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P04_CaesarCipher\obj\Debug\net5.0\P04_CaesarCipher.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P04_CaesarCipher\obj\Debug\net5.0\P04_CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P04_CaesarCipher\obj\Debug\net5.0\P04_CaesarCipher.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P04_CaesarCipher\obj\Debug\net5.0\refint\P04_CaesarCipher.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P04_CaesarCipher\obj\Debug\net5.0\P04_CaesarCipher.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P04_CaesarCipher\obj\Debug\net5.0\P04_CaesarCipher.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P04_CaesarCipher\obj\Debug\net5.0\ref\P04_CaesarCipher.dll

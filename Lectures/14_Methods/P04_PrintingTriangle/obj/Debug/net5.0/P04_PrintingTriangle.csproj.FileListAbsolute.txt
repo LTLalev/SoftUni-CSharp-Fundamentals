@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P04_PrintingTriangle\bin\Debug\net5.0\P04_PrintingTriangle.exe
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P04_PrintingTriangle\bin\Debug\net5.0\P04_PrintingTriangle.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P04_PrintingTriangle\bin\Debug\net5.0\P04_PrintingTriangle.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P04_PrintingTriangle\bin\Debug\net5.0\P04_PrintingTriangle.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P04_PrintingTriangle\bin\Debug\net5.0\P04_PrintingTriangle.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P04_PrintingTriangle\bin\Debug\net5.0\P04_PrintingTriangle.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P04_PrintingTriangle\obj\Debug\net5.0\P04_PrintingTriangle.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P04_PrintingTriangle\obj\Debug\net5.0\P04_PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P04_PrintingTriangle\obj\Debug\net5.0\P04_PrintingTriangle.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P04_PrintingTriangle\obj\Debug\net5.0\P04_PrintingTriangle.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P04_PrintingTriangle\obj\Debug\net5.0\P04_PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P04_PrintingTriangle\obj\Debug\net5.0\P04_PrintingTriangle.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P04_PrintingTriangle\obj\Debug\net5.0\refint\P04_PrintingTriangle.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P04_PrintingTriangle\obj\Debug\net5.0\P04_PrintingTriangle.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P04_PrintingTriangle\obj\Debug\net5.0\P04_PrintingTriangle.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P04_PrintingTriangle\obj\Debug\net5.0\ref\P04_PrintingTriangle.dll

@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\P04_SoftUniParking\bin\Debug\net5.0\P04_SoftUniParking.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\P04_SoftUniParking\bin\Debug\net5.0\P04_SoftUniParking.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\P04_SoftUniParking\bin\Debug\net5.0\P04_SoftUniParking.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\P04_SoftUniParking\bin\Debug\net5.0\P04_SoftUniParking.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\P04_SoftUniParking\bin\Debug\net5.0\P04_SoftUniParking.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\P04_SoftUniParking\bin\Debug\net5.0\P04_SoftUniParking.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\P04_SoftUniParking\obj\Debug\net5.0\P04_SoftUniParking.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\P04_SoftUniParking\obj\Debug\net5.0\P04_SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\P04_SoftUniParking\obj\Debug\net5.0\P04_SoftUniParking.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\P04_SoftUniParking\obj\Debug\net5.0\P04_SoftUniParking.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\P04_SoftUniParking\obj\Debug\net5.0\P04_SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\P04_SoftUniParking\obj\Debug\net5.0\P04_SoftUniParking.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\P04_SoftUniParking\obj\Debug\net5.0\refint\P04_SoftUniParking.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\P04_SoftUniParking\obj\Debug\net5.0\P04_SoftUniParking.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\P04_SoftUniParking\obj\Debug\net5.0\P04_SoftUniParking.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\P04_SoftUniParking\obj\Debug\net5.0\ref\P04_SoftUniParking.dll

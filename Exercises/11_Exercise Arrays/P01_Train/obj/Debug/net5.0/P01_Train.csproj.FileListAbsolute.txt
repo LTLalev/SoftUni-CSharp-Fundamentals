@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P01_Train\bin\Debug\net5.0\P01_Train.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P01_Train\bin\Debug\net5.0\P01_Train.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P01_Train\bin\Debug\net5.0\P01_Train.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P01_Train\bin\Debug\net5.0\P01_Train.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P01_Train\bin\Debug\net5.0\P01_Train.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P01_Train\bin\Debug\net5.0\P01_Train.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P01_Train\obj\Debug\net5.0\P01_Train.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P01_Train\obj\Debug\net5.0\P01_Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P01_Train\obj\Debug\net5.0\P01_Train.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P01_Train\obj\Debug\net5.0\P01_Train.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P01_Train\obj\Debug\net5.0\P01_Train.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P01_Train\obj\Debug\net5.0\P01_Train.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P01_Train\obj\Debug\net5.0\refint\P01_Train.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P01_Train\obj\Debug\net5.0\P01_Train.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P01_Train\obj\Debug\net5.0\P01_Train.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P01_Train\obj\Debug\net5.0\ref\P01_Train.dll

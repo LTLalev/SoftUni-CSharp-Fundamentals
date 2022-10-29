@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM05_ShoppingSpree\bin\Debug\net5.0\PM05_ShoppingSpree.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM05_ShoppingSpree\bin\Debug\net5.0\PM05_ShoppingSpree.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM05_ShoppingSpree\bin\Debug\net5.0\PM05_ShoppingSpree.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM05_ShoppingSpree\bin\Debug\net5.0\PM05_ShoppingSpree.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM05_ShoppingSpree\bin\Debug\net5.0\PM05_ShoppingSpree.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM05_ShoppingSpree\bin\Debug\net5.0\PM05_ShoppingSpree.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM05_ShoppingSpree\obj\Debug\net5.0\PM05_ShoppingSpree.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM05_ShoppingSpree\obj\Debug\net5.0\PM05_ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM05_ShoppingSpree\obj\Debug\net5.0\PM05_ShoppingSpree.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM05_ShoppingSpree\obj\Debug\net5.0\PM05_ShoppingSpree.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM05_ShoppingSpree\obj\Debug\net5.0\PM05_ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM05_ShoppingSpree\obj\Debug\net5.0\PM05_ShoppingSpree.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM05_ShoppingSpree\obj\Debug\net5.0\refint\PM05_ShoppingSpree.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM05_ShoppingSpree\obj\Debug\net5.0\PM05_ShoppingSpree.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM05_ShoppingSpree\obj\Debug\net5.0\PM05_ShoppingSpree.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM05_ShoppingSpree\obj\Debug\net5.0\ref\PM05_ShoppingSpree.dll

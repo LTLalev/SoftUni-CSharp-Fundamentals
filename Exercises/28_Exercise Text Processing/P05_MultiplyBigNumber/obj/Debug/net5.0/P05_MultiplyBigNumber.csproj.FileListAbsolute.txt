@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P05_MultiplyBigNumber\bin\Debug\net5.0\P05_MultiplyBigNumber.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P05_MultiplyBigNumber\bin\Debug\net5.0\P05_MultiplyBigNumber.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P05_MultiplyBigNumber\bin\Debug\net5.0\P05_MultiplyBigNumber.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P05_MultiplyBigNumber\bin\Debug\net5.0\P05_MultiplyBigNumber.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P05_MultiplyBigNumber\bin\Debug\net5.0\P05_MultiplyBigNumber.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P05_MultiplyBigNumber\bin\Debug\net5.0\P05_MultiplyBigNumber.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P05_MultiplyBigNumber\obj\Debug\net5.0\P05_MultiplyBigNumber.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P05_MultiplyBigNumber\obj\Debug\net5.0\P05_MultiplyBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P05_MultiplyBigNumber\obj\Debug\net5.0\P05_MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P05_MultiplyBigNumber\obj\Debug\net5.0\P05_MultiplyBigNumber.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P05_MultiplyBigNumber\obj\Debug\net5.0\P05_MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P05_MultiplyBigNumber\obj\Debug\net5.0\P05_MultiplyBigNumber.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P05_MultiplyBigNumber\obj\Debug\net5.0\refint\P05_MultiplyBigNumber.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P05_MultiplyBigNumber\obj\Debug\net5.0\P05_MultiplyBigNumber.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P05_MultiplyBigNumber\obj\Debug\net5.0\P05_MultiplyBigNumber.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\28_Exercise Text Processing\P05_MultiplyBigNumber\obj\Debug\net5.0\ref\P05_MultiplyBigNumber.dll

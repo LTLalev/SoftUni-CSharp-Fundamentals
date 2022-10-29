@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P05_SumEvenNumbers\bin\Debug\net5.0\P05_SumEvenNumbers.exe
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P05_SumEvenNumbers\bin\Debug\net5.0\P05_SumEvenNumbers.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P05_SumEvenNumbers\bin\Debug\net5.0\P05_SumEvenNumbers.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P05_SumEvenNumbers\bin\Debug\net5.0\P05_SumEvenNumbers.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P05_SumEvenNumbers\bin\Debug\net5.0\P05_SumEvenNumbers.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P05_SumEvenNumbers\bin\Debug\net5.0\P05_SumEvenNumbers.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P05_SumEvenNumbers\obj\Debug\net5.0\P05_SumEvenNumbers.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P05_SumEvenNumbers\obj\Debug\net5.0\P05_SumEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P05_SumEvenNumbers\obj\Debug\net5.0\P05_SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P05_SumEvenNumbers\obj\Debug\net5.0\P05_SumEvenNumbers.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P05_SumEvenNumbers\obj\Debug\net5.0\P05_SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P05_SumEvenNumbers\obj\Debug\net5.0\P05_SumEvenNumbers.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P05_SumEvenNumbers\obj\Debug\net5.0\refint\P05_SumEvenNumbers.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P05_SumEvenNumbers\obj\Debug\net5.0\P05_SumEvenNumbers.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P05_SumEvenNumbers\obj\Debug\net5.0\P05_SumEvenNumbers.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P05_SumEvenNumbers\obj\Debug\net5.0\ref\P05_SumEvenNumbers.dll

@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P10_LadyBugs\bin\Debug\net5.0\P10_LadyBugs.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P10_LadyBugs\bin\Debug\net5.0\P10_LadyBugs.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P10_LadyBugs\bin\Debug\net5.0\P10_LadyBugs.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P10_LadyBugs\bin\Debug\net5.0\P10_LadyBugs.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P10_LadyBugs\bin\Debug\net5.0\P10_LadyBugs.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P10_LadyBugs\bin\Debug\net5.0\P10_LadyBugs.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P10_LadyBugs\obj\Debug\net5.0\P10_LadyBugs.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P10_LadyBugs\obj\Debug\net5.0\P10_LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P10_LadyBugs\obj\Debug\net5.0\P10_LadyBugs.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P10_LadyBugs\obj\Debug\net5.0\P10_LadyBugs.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P10_LadyBugs\obj\Debug\net5.0\P10_LadyBugs.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P10_LadyBugs\obj\Debug\net5.0\P10_LadyBugs.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P10_LadyBugs\obj\Debug\net5.0\refint\P10_LadyBugs.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P10_LadyBugs\obj\Debug\net5.0\P10_LadyBugs.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P10_LadyBugs\obj\Debug\net5.0\P10_LadyBugs.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P10_LadyBugs\obj\Debug\net5.0\ref\P10_LadyBugs.dll

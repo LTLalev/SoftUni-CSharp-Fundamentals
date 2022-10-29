@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P02_VowelsCount\bin\Debug\net5.0\P02_VowelsCount.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P02_VowelsCount\bin\Debug\net5.0\P02_VowelsCount.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P02_VowelsCount\bin\Debug\net5.0\P02_VowelsCount.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P02_VowelsCount\bin\Debug\net5.0\P02_VowelsCount.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P02_VowelsCount\bin\Debug\net5.0\P02_VowelsCount.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P02_VowelsCount\bin\Debug\net5.0\P02_VowelsCount.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P02_VowelsCount\obj\Debug\net5.0\P02_VowelsCount.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P02_VowelsCount\obj\Debug\net5.0\P02_VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P02_VowelsCount\obj\Debug\net5.0\P02_VowelsCount.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P02_VowelsCount\obj\Debug\net5.0\P02_VowelsCount.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P02_VowelsCount\obj\Debug\net5.0\P02_VowelsCount.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P02_VowelsCount\obj\Debug\net5.0\P02_VowelsCount.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P02_VowelsCount\obj\Debug\net5.0\refint\P02_VowelsCount.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P02_VowelsCount\obj\Debug\net5.0\P02_VowelsCount.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P02_VowelsCount\obj\Debug\net5.0\P02_VowelsCount.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P02_VowelsCount\obj\Debug\net5.0\ref\P02_VowelsCount.dll

@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P06_MiddleCharacters\bin\Debug\net5.0\P06_MiddleCharacters.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P06_MiddleCharacters\bin\Debug\net5.0\P06_MiddleCharacters.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P06_MiddleCharacters\bin\Debug\net5.0\P06_MiddleCharacters.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P06_MiddleCharacters\bin\Debug\net5.0\P06_MiddleCharacters.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P06_MiddleCharacters\bin\Debug\net5.0\P06_MiddleCharacters.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P06_MiddleCharacters\bin\Debug\net5.0\P06_MiddleCharacters.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P06_MiddleCharacters\obj\Debug\net5.0\P06_MiddleCharacters.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P06_MiddleCharacters\obj\Debug\net5.0\P06_MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P06_MiddleCharacters\obj\Debug\net5.0\P06_MiddleCharacters.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P06_MiddleCharacters\obj\Debug\net5.0\P06_MiddleCharacters.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P06_MiddleCharacters\obj\Debug\net5.0\P06_MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P06_MiddleCharacters\obj\Debug\net5.0\P06_MiddleCharacters.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P06_MiddleCharacters\obj\Debug\net5.0\refint\P06_MiddleCharacters.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P06_MiddleCharacters\obj\Debug\net5.0\P06_MiddleCharacters.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P06_MiddleCharacters\obj\Debug\net5.0\P06_MiddleCharacters.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P06_MiddleCharacters\obj\Debug\net5.0\ref\P06_MiddleCharacters.dll

@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM04_RawData\bin\Debug\net5.0\PM04_RawData.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM04_RawData\bin\Debug\net5.0\PM04_RawData.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM04_RawData\bin\Debug\net5.0\PM04_RawData.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM04_RawData\bin\Debug\net5.0\PM04_RawData.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM04_RawData\bin\Debug\net5.0\PM04_RawData.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM04_RawData\bin\Debug\net5.0\PM04_RawData.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM04_RawData\obj\Debug\net5.0\PM04_RawData.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM04_RawData\obj\Debug\net5.0\PM04_RawData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM04_RawData\obj\Debug\net5.0\PM04_RawData.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM04_RawData\obj\Debug\net5.0\PM04_RawData.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM04_RawData\obj\Debug\net5.0\PM04_RawData.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM04_RawData\obj\Debug\net5.0\PM04_RawData.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM04_RawData\obj\Debug\net5.0\refint\PM04_RawData.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM04_RawData\obj\Debug\net5.0\PM04_RawData.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM04_RawData\obj\Debug\net5.0\PM04_RawData.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM04_RawData\obj\Debug\net5.0\ref\PM04_RawData.dll

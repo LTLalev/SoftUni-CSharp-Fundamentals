@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P02_CommonElements\bin\Debug\net5.0\P02_CommonElements.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P02_CommonElements\bin\Debug\net5.0\P02_CommonElements.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P02_CommonElements\bin\Debug\net5.0\P02_CommonElements.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P02_CommonElements\bin\Debug\net5.0\P02_CommonElements.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P02_CommonElements\bin\Debug\net5.0\P02_CommonElements.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P02_CommonElements\bin\Debug\net5.0\P02_CommonElements.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P02_CommonElements\obj\Debug\net5.0\P02_CommonElements.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P02_CommonElements\obj\Debug\net5.0\P02_CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P02_CommonElements\obj\Debug\net5.0\P02_CommonElements.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P02_CommonElements\obj\Debug\net5.0\P02_CommonElements.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P02_CommonElements\obj\Debug\net5.0\P02_CommonElements.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P02_CommonElements\obj\Debug\net5.0\P02_CommonElements.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P02_CommonElements\obj\Debug\net5.0\refint\P02_CommonElements.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P02_CommonElements\obj\Debug\net5.0\P02_CommonElements.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P02_CommonElements\obj\Debug\net5.0\P02_CommonElements.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P02_CommonElements\obj\Debug\net5.0\ref\P02_CommonElements.dll

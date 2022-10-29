@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P03_Articles2.0\bin\Debug\net5.0\P03_Articles2.0.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P03_Articles2.0\bin\Debug\net5.0\P03_Articles2.0.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P03_Articles2.0\bin\Debug\net5.0\P03_Articles2.0.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P03_Articles2.0\bin\Debug\net5.0\P03_Articles2.0.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P03_Articles2.0\bin\Debug\net5.0\P03_Articles2.0.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P03_Articles2.0\bin\Debug\net5.0\P03_Articles2.0.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P03_Articles2.0\obj\Debug\net5.0\P03_Articles2.0.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P03_Articles2.0\obj\Debug\net5.0\P03_Articles2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P03_Articles2.0\obj\Debug\net5.0\P03_Articles2.0.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P03_Articles2.0\obj\Debug\net5.0\P03_Articles2.0.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P03_Articles2.0\obj\Debug\net5.0\P03_Articles2.0.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P03_Articles2.0\obj\Debug\net5.0\P03_Articles2.0.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P03_Articles2.0\obj\Debug\net5.0\refint\P03_Articles2.0.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P03_Articles2.0\obj\Debug\net5.0\P03_Articles2.0.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P03_Articles2.0\obj\Debug\net5.0\P03_Articles2.0.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P03_Articles2.0\obj\Debug\net5.0\ref\P03_Articles2.0.dll

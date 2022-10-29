@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P01_DayOfWeek\bin\Debug\net5.0\P01_DayOfWeek.exe
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P01_DayOfWeek\bin\Debug\net5.0\P01_DayOfWeek.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P01_DayOfWeek\bin\Debug\net5.0\P01_DayOfWeek.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P01_DayOfWeek\bin\Debug\net5.0\P01_DayOfWeek.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P01_DayOfWeek\bin\Debug\net5.0\P01_DayOfWeek.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P01_DayOfWeek\bin\Debug\net5.0\P01_DayOfWeek.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P01_DayOfWeek\obj\Debug\net5.0\P01_DayOfWeek.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P01_DayOfWeek\obj\Debug\net5.0\P01_DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P01_DayOfWeek\obj\Debug\net5.0\P01_DayOfWeek.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P01_DayOfWeek\obj\Debug\net5.0\P01_DayOfWeek.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P01_DayOfWeek\obj\Debug\net5.0\P01_DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P01_DayOfWeek\obj\Debug\net5.0\P01_DayOfWeek.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P01_DayOfWeek\obj\Debug\net5.0\refint\P01_DayOfWeek.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P01_DayOfWeek\obj\Debug\net5.0\P01_DayOfWeek.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P01_DayOfWeek\obj\Debug\net5.0\P01_DayOfWeek.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P01_DayOfWeek\obj\Debug\net5.0\ref\P01_DayOfWeek.dll

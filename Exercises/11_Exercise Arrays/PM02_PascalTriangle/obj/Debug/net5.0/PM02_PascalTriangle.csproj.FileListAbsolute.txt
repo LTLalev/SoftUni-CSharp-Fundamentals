@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM02_PascalTriangle\obj\Debug\net5.0\PM02_PascalTriangle.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM02_PascalTriangle\obj\Debug\net5.0\PM02_PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM02_PascalTriangle\obj\Debug\net5.0\PM02_PascalTriangle.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM02_PascalTriangle\obj\Debug\net5.0\PM02_PascalTriangle.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM02_PascalTriangle\obj\Debug\net5.0\PM02_PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM02_PascalTriangle\bin\Debug\net5.0\PM02_PascalTriangle.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM02_PascalTriangle\bin\Debug\net5.0\PM02_PascalTriangle.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM02_PascalTriangle\bin\Debug\net5.0\PM02_PascalTriangle.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM02_PascalTriangle\bin\Debug\net5.0\PM02_PascalTriangle.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM02_PascalTriangle\bin\Debug\net5.0\PM02_PascalTriangle.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM02_PascalTriangle\bin\Debug\net5.0\PM02_PascalTriangle.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM02_PascalTriangle\obj\Debug\net5.0\PM02_PascalTriangle.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM02_PascalTriangle\obj\Debug\net5.0\refint\PM02_PascalTriangle.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM02_PascalTriangle\obj\Debug\net5.0\PM02_PascalTriangle.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM02_PascalTriangle\obj\Debug\net5.0\PM02_PascalTriangle.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\PM02_PascalTriangle\obj\Debug\net5.0\ref\PM02_PascalTriangle.dll

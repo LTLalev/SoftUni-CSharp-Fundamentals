@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\PM02_CenterPoint\bin\Debug\net5.0\PM02_CenterPoint.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\PM02_CenterPoint\bin\Debug\net5.0\PM02_CenterPoint.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\PM02_CenterPoint\bin\Debug\net5.0\PM02_CenterPoint.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\PM02_CenterPoint\bin\Debug\net5.0\PM02_CenterPoint.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\PM02_CenterPoint\bin\Debug\net5.0\PM02_CenterPoint.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\PM02_CenterPoint\bin\Debug\net5.0\PM02_CenterPoint.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\PM02_CenterPoint\obj\Debug\net5.0\PM02_CenterPoint.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\PM02_CenterPoint\obj\Debug\net5.0\PM02_CenterPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\PM02_CenterPoint\obj\Debug\net5.0\PM02_CenterPoint.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\PM02_CenterPoint\obj\Debug\net5.0\PM02_CenterPoint.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\PM02_CenterPoint\obj\Debug\net5.0\PM02_CenterPoint.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\PM02_CenterPoint\obj\Debug\net5.0\PM02_CenterPoint.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\PM02_CenterPoint\obj\Debug\net5.0\refint\PM02_CenterPoint.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\PM02_CenterPoint\obj\Debug\net5.0\PM02_CenterPoint.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\PM02_CenterPoint\obj\Debug\net5.0\PM02_CenterPoint.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\PM02_CenterPoint\obj\Debug\net5.0\ref\PM02_CenterPoint.dll

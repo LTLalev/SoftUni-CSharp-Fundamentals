@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\18_Exercise List\P10_SoftUniCoursePlanning\bin\Debug\net5.0\P10_SoftUniCoursePlanning.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\18_Exercise List\P10_SoftUniCoursePlanning\bin\Debug\net5.0\P10_SoftUniCoursePlanning.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\18_Exercise List\P10_SoftUniCoursePlanning\bin\Debug\net5.0\P10_SoftUniCoursePlanning.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\18_Exercise List\P10_SoftUniCoursePlanning\bin\Debug\net5.0\P10_SoftUniCoursePlanning.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\18_Exercise List\P10_SoftUniCoursePlanning\bin\Debug\net5.0\P10_SoftUniCoursePlanning.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\18_Exercise List\P10_SoftUniCoursePlanning\bin\Debug\net5.0\P10_SoftUniCoursePlanning.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\18_Exercise List\P10_SoftUniCoursePlanning\obj\Debug\net5.0\P10_SoftUniCoursePlanning.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\18_Exercise List\P10_SoftUniCoursePlanning\obj\Debug\net5.0\P10_SoftUniCoursePlanning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\18_Exercise List\P10_SoftUniCoursePlanning\obj\Debug\net5.0\P10_SoftUniCoursePlanning.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\18_Exercise List\P10_SoftUniCoursePlanning\obj\Debug\net5.0\P10_SoftUniCoursePlanning.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\18_Exercise List\P10_SoftUniCoursePlanning\obj\Debug\net5.0\P10_SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\18_Exercise List\P10_SoftUniCoursePlanning\obj\Debug\net5.0\P10_SoftUniCoursePlanning.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\18_Exercise List\P10_SoftUniCoursePlanning\obj\Debug\net5.0\refint\P10_SoftUniCoursePlanning.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\18_Exercise List\P10_SoftUniCoursePlanning\obj\Debug\net5.0\P10_SoftUniCoursePlanning.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\18_Exercise List\P10_SoftUniCoursePlanning\obj\Debug\net5.0\P10_SoftUniCoursePlanning.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\18_Exercise List\P10_SoftUniCoursePlanning\obj\Debug\net5.0\ref\P10_SoftUniCoursePlanning.dll

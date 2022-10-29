@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM01_Ranking\bin\Debug\net5.0\PM01_Ranking.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM01_Ranking\bin\Debug\net5.0\PM01_Ranking.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM01_Ranking\bin\Debug\net5.0\PM01_Ranking.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM01_Ranking\bin\Debug\net5.0\PM01_Ranking.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM01_Ranking\bin\Debug\net5.0\PM01_Ranking.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM01_Ranking\bin\Debug\net5.0\PM01_Ranking.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM01_Ranking\obj\Debug\net5.0\PM01_Ranking.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM01_Ranking\obj\Debug\net5.0\PM01_Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM01_Ranking\obj\Debug\net5.0\PM01_Ranking.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM01_Ranking\obj\Debug\net5.0\PM01_Ranking.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM01_Ranking\obj\Debug\net5.0\PM01_Ranking.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM01_Ranking\obj\Debug\net5.0\PM01_Ranking.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM01_Ranking\obj\Debug\net5.0\refint\PM01_Ranking.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM01_Ranking\obj\Debug\net5.0\PM01_Ranking.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM01_Ranking\obj\Debug\net5.0\PM01_Ranking.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM01_Ranking\obj\Debug\net5.0\ref\PM01_Ranking.dll

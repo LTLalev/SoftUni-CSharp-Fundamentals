@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P09_KaminoFactory\bin\Debug\net5.0\P09_KaminoFactory.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P09_KaminoFactory\bin\Debug\net5.0\P09_KaminoFactory.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P09_KaminoFactory\bin\Debug\net5.0\P09_KaminoFactory.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P09_KaminoFactory\bin\Debug\net5.0\P09_KaminoFactory.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P09_KaminoFactory\bin\Debug\net5.0\P09_KaminoFactory.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P09_KaminoFactory\bin\Debug\net5.0\P09_KaminoFactory.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P09_KaminoFactory\obj\Debug\net5.0\P09_KaminoFactory.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P09_KaminoFactory\obj\Debug\net5.0\P09_KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P09_KaminoFactory\obj\Debug\net5.0\P09_KaminoFactory.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P09_KaminoFactory\obj\Debug\net5.0\P09_KaminoFactory.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P09_KaminoFactory\obj\Debug\net5.0\P09_KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P09_KaminoFactory\obj\Debug\net5.0\P09_KaminoFactory.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P09_KaminoFactory\obj\Debug\net5.0\refint\P09_KaminoFactory.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P09_KaminoFactory\obj\Debug\net5.0\P09_KaminoFactory.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P09_KaminoFactory\obj\Debug\net5.0\P09_KaminoFactory.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\11_Exercise Arrays\P09_KaminoFactory\obj\Debug\net5.0\ref\P09_KaminoFactory.dll

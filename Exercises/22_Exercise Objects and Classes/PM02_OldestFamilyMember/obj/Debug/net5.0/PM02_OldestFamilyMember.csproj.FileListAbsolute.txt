@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM02_OldestFamilyMember\bin\Debug\net5.0\PM02_OldestFamilyMember.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM02_OldestFamilyMember\bin\Debug\net5.0\PM02_OldestFamilyMember.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM02_OldestFamilyMember\bin\Debug\net5.0\PM02_OldestFamilyMember.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM02_OldestFamilyMember\bin\Debug\net5.0\PM02_OldestFamilyMember.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM02_OldestFamilyMember\bin\Debug\net5.0\PM02_OldestFamilyMember.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM02_OldestFamilyMember\bin\Debug\net5.0\PM02_OldestFamilyMember.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM02_OldestFamilyMember\obj\Debug\net5.0\PM02_OldestFamilyMember.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM02_OldestFamilyMember\obj\Debug\net5.0\PM02_OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM02_OldestFamilyMember\obj\Debug\net5.0\PM02_OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM02_OldestFamilyMember\obj\Debug\net5.0\PM02_OldestFamilyMember.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM02_OldestFamilyMember\obj\Debug\net5.0\PM02_OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM02_OldestFamilyMember\obj\Debug\net5.0\PM02_OldestFamilyMember.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM02_OldestFamilyMember\obj\Debug\net5.0\refint\PM02_OldestFamilyMember.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM02_OldestFamilyMember\obj\Debug\net5.0\PM02_OldestFamilyMember.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM02_OldestFamilyMember\obj\Debug\net5.0\PM02_OldestFamilyMember.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM02_OldestFamilyMember\obj\Debug\net5.0\ref\PM02_OldestFamilyMember.dll

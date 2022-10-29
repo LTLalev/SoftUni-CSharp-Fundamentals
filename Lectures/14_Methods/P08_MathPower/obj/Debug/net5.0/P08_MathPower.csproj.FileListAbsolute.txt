@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P08_MathPower\bin\Debug\net5.0\P08_MathPower.exe
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P08_MathPower\bin\Debug\net5.0\P08_MathPower.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P08_MathPower\bin\Debug\net5.0\P08_MathPower.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P08_MathPower\bin\Debug\net5.0\P08_MathPower.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P08_MathPower\bin\Debug\net5.0\P08_MathPower.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P08_MathPower\bin\Debug\net5.0\P08_MathPower.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P08_MathPower\obj\Debug\net5.0\P08_MathPower.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P08_MathPower\obj\Debug\net5.0\P08_MathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P08_MathPower\obj\Debug\net5.0\P08_MathPower.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P08_MathPower\obj\Debug\net5.0\P08_MathPower.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P08_MathPower\obj\Debug\net5.0\P08_MathPower.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P08_MathPower\obj\Debug\net5.0\P08_MathPower.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P08_MathPower\obj\Debug\net5.0\refint\P08_MathPower.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P08_MathPower\obj\Debug\net5.0\P08_MathPower.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P08_MathPower\obj\Debug\net5.0\P08_MathPower.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P08_MathPower\obj\Debug\net5.0\ref\P08_MathPower.dll

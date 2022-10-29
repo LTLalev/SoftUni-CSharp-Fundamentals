@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P09_PalindromeIntegers\bin\Debug\net5.0\P09_PalindromeIntegers.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P09_PalindromeIntegers\bin\Debug\net5.0\P09_PalindromeIntegers.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P09_PalindromeIntegers\bin\Debug\net5.0\P09_PalindromeIntegers.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P09_PalindromeIntegers\bin\Debug\net5.0\P09_PalindromeIntegers.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P09_PalindromeIntegers\bin\Debug\net5.0\P09_PalindromeIntegers.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P09_PalindromeIntegers\bin\Debug\net5.0\P09_PalindromeIntegers.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P09_PalindromeIntegers\obj\Debug\net5.0\P09_PalindromeIntegers.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P09_PalindromeIntegers\obj\Debug\net5.0\P09_PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P09_PalindromeIntegers\obj\Debug\net5.0\P09_PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P09_PalindromeIntegers\obj\Debug\net5.0\P09_PalindromeIntegers.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P09_PalindromeIntegers\obj\Debug\net5.0\P09_PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P09_PalindromeIntegers\obj\Debug\net5.0\P09_PalindromeIntegers.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P09_PalindromeIntegers\obj\Debug\net5.0\refint\P09_PalindromeIntegers.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P09_PalindromeIntegers\obj\Debug\net5.0\P09_PalindromeIntegers.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P09_PalindromeIntegers\obj\Debug\net5.0\P09_PalindromeIntegers.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\15_Exercise Methods\P09_PalindromeIntegers\obj\Debug\net5.0\ref\P09_PalindromeIntegers.dll

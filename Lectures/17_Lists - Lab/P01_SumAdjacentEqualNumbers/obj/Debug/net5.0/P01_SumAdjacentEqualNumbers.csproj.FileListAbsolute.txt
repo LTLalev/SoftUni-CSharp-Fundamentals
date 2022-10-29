@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P01_SumAdjacentEqualNumbers\bin\Debug\net5.0\P01_SumAdjacentEqualNumbers.exe
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P01_SumAdjacentEqualNumbers\bin\Debug\net5.0\P01_SumAdjacentEqualNumbers.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P01_SumAdjacentEqualNumbers\bin\Debug\net5.0\P01_SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P01_SumAdjacentEqualNumbers\bin\Debug\net5.0\P01_SumAdjacentEqualNumbers.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P01_SumAdjacentEqualNumbers\bin\Debug\net5.0\P01_SumAdjacentEqualNumbers.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P01_SumAdjacentEqualNumbers\bin\Debug\net5.0\P01_SumAdjacentEqualNumbers.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P01_SumAdjacentEqualNumbers\obj\Debug\net5.0\P01_SumAdjacentEqualNumbers.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P01_SumAdjacentEqualNumbers\obj\Debug\net5.0\P01_SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P01_SumAdjacentEqualNumbers\obj\Debug\net5.0\P01_SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P01_SumAdjacentEqualNumbers\obj\Debug\net5.0\P01_SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P01_SumAdjacentEqualNumbers\obj\Debug\net5.0\P01_SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P01_SumAdjacentEqualNumbers\obj\Debug\net5.0\P01_SumAdjacentEqualNumbers.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P01_SumAdjacentEqualNumbers\obj\Debug\net5.0\refint\P01_SumAdjacentEqualNumbers.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P01_SumAdjacentEqualNumbers\obj\Debug\net5.0\P01_SumAdjacentEqualNumbers.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P01_SumAdjacentEqualNumbers\obj\Debug\net5.0\P01_SumAdjacentEqualNumbers.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P01_SumAdjacentEqualNumbers\obj\Debug\net5.0\ref\P01_SumAdjacentEqualNumbers.dll

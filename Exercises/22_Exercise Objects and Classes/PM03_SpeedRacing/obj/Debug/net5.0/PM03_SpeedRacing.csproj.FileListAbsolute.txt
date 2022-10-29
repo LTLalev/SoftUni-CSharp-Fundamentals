@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM03_SpeedRacing\bin\Debug\net5.0\PM03_SpeedRacing.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM03_SpeedRacing\bin\Debug\net5.0\PM03_SpeedRacing.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM03_SpeedRacing\bin\Debug\net5.0\PM03_SpeedRacing.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM03_SpeedRacing\bin\Debug\net5.0\PM03_SpeedRacing.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM03_SpeedRacing\bin\Debug\net5.0\PM03_SpeedRacing.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM03_SpeedRacing\bin\Debug\net5.0\PM03_SpeedRacing.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM03_SpeedRacing\obj\Debug\net5.0\PM03_SpeedRacing.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM03_SpeedRacing\obj\Debug\net5.0\PM03_SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM03_SpeedRacing\obj\Debug\net5.0\PM03_SpeedRacing.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM03_SpeedRacing\obj\Debug\net5.0\PM03_SpeedRacing.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM03_SpeedRacing\obj\Debug\net5.0\PM03_SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM03_SpeedRacing\obj\Debug\net5.0\PM03_SpeedRacing.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM03_SpeedRacing\obj\Debug\net5.0\refint\PM03_SpeedRacing.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM03_SpeedRacing\obj\Debug\net5.0\PM03_SpeedRacing.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM03_SpeedRacing\obj\Debug\net5.0\PM03_SpeedRacing.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\PM03_SpeedRacing\obj\Debug\net5.0\ref\PM03_SpeedRacing.dll

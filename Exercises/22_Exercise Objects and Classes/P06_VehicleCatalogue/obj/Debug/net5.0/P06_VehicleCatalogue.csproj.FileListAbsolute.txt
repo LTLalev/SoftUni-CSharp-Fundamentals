@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P06_VehicleCatalogue\bin\Debug\net5.0\P06_VehicleCatalogue.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P06_VehicleCatalogue\bin\Debug\net5.0\P06_VehicleCatalogue.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P06_VehicleCatalogue\bin\Debug\net5.0\P06_VehicleCatalogue.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P06_VehicleCatalogue\bin\Debug\net5.0\P06_VehicleCatalogue.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P06_VehicleCatalogue\bin\Debug\net5.0\P06_VehicleCatalogue.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P06_VehicleCatalogue\bin\Debug\net5.0\P06_VehicleCatalogue.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P06_VehicleCatalogue\obj\Debug\net5.0\P06_VehicleCatalogue.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P06_VehicleCatalogue\obj\Debug\net5.0\P06_VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P06_VehicleCatalogue\obj\Debug\net5.0\P06_VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P06_VehicleCatalogue\obj\Debug\net5.0\P06_VehicleCatalogue.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P06_VehicleCatalogue\obj\Debug\net5.0\P06_VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P06_VehicleCatalogue\obj\Debug\net5.0\P06_VehicleCatalogue.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P06_VehicleCatalogue\obj\Debug\net5.0\refint\P06_VehicleCatalogue.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P06_VehicleCatalogue\obj\Debug\net5.0\P06_VehicleCatalogue.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P06_VehicleCatalogue\obj\Debug\net5.0\P06_VehicleCatalogue.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\22_Exercise Objects and Classes\P06_VehicleCatalogue\obj\Debug\net5.0\ref\P06_VehicleCatalogue.dll

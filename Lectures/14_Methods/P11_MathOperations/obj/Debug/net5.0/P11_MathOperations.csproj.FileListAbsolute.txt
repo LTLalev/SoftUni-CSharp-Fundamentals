@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P11_MathOperations\bin\Debug\net5.0\P11_MathOperations.exe
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P11_MathOperations\bin\Debug\net5.0\P11_MathOperations.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P11_MathOperations\bin\Debug\net5.0\P11_MathOperations.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P11_MathOperations\bin\Debug\net5.0\P11_MathOperations.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P11_MathOperations\bin\Debug\net5.0\P11_MathOperations.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P11_MathOperations\bin\Debug\net5.0\P11_MathOperations.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P11_MathOperations\obj\Debug\net5.0\P11_MathOperations.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P11_MathOperations\obj\Debug\net5.0\P11_MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P11_MathOperations\obj\Debug\net5.0\P11_MathOperations.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P11_MathOperations\obj\Debug\net5.0\P11_MathOperations.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P11_MathOperations\obj\Debug\net5.0\P11_MathOperations.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P11_MathOperations\obj\Debug\net5.0\P11_MathOperations.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P11_MathOperations\obj\Debug\net5.0\refint\P11_MathOperations.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P11_MathOperations\obj\Debug\net5.0\P11_MathOperations.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P11_MathOperations\obj\Debug\net5.0\P11_MathOperations.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P11_MathOperations\obj\Debug\net5.0\ref\P11_MathOperations.dll

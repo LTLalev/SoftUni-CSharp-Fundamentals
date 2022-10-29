@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM02_Judge\bin\Debug\net5.0\PM02_Judge.exe
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM02_Judge\bin\Debug\net5.0\PM02_Judge.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM02_Judge\bin\Debug\net5.0\PM02_Judge.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM02_Judge\bin\Debug\net5.0\PM02_Judge.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM02_Judge\bin\Debug\net5.0\PM02_Judge.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM02_Judge\bin\Debug\net5.0\PM02_Judge.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM02_Judge\obj\Debug\net5.0\PM02_Judge.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM02_Judge\obj\Debug\net5.0\PM02_Judge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM02_Judge\obj\Debug\net5.0\PM02_Judge.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM02_Judge\obj\Debug\net5.0\PM02_Judge.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM02_Judge\obj\Debug\net5.0\PM02_Judge.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM02_Judge\obj\Debug\net5.0\PM02_Judge.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM02_Judge\obj\Debug\net5.0\refint\PM02_Judge.dll
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM02_Judge\obj\Debug\net5.0\PM02_Judge.pdb
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM02_Judge\obj\Debug\net5.0\PM02_Judge.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Exercises\25_Exercise Associative Arrays\PM02_Judge\obj\Debug\net5.0\ref\PM02_Judge.dll
