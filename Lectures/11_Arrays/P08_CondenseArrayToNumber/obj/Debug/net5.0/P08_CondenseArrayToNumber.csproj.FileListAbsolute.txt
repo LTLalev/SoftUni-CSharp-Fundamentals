@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P08_CondenseArrayToNumber\bin\Debug\net5.0\P08_CondenseArrayToNumber.exe
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P08_CondenseArrayToNumber\bin\Debug\net5.0\P08_CondenseArrayToNumber.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P08_CondenseArrayToNumber\bin\Debug\net5.0\P08_CondenseArrayToNumber.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P08_CondenseArrayToNumber\bin\Debug\net5.0\P08_CondenseArrayToNumber.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P08_CondenseArrayToNumber\bin\Debug\net5.0\P08_CondenseArrayToNumber.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P08_CondenseArrayToNumber\bin\Debug\net5.0\P08_CondenseArrayToNumber.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P08_CondenseArrayToNumber\obj\Debug\net5.0\P08_CondenseArrayToNumber.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P08_CondenseArrayToNumber\obj\Debug\net5.0\P08_CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P08_CondenseArrayToNumber\obj\Debug\net5.0\P08_CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P08_CondenseArrayToNumber\obj\Debug\net5.0\P08_CondenseArrayToNumber.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P08_CondenseArrayToNumber\obj\Debug\net5.0\P08_CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P08_CondenseArrayToNumber\obj\Debug\net5.0\P08_CondenseArrayToNumber.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P08_CondenseArrayToNumber\obj\Debug\net5.0\refint\P08_CondenseArrayToNumber.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P08_CondenseArrayToNumber\obj\Debug\net5.0\P08_CondenseArrayToNumber.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P08_CondenseArrayToNumber\obj\Debug\net5.0\P08_CondenseArrayToNumber.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P08_CondenseArrayToNumber\obj\Debug\net5.0\ref\P08_CondenseArrayToNumber.dll

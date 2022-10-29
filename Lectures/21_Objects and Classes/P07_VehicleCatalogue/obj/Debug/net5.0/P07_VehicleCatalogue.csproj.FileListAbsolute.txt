@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Lectures\21_Objects and Classes\P07_VehicleCatalogue\bin\Debug\net5.0\P07_VehicleCatalogue.exe
+C:\Programming\Programming Fundamentals - may 2022\Lectures\21_Objects and Classes\P07_VehicleCatalogue\bin\Debug\net5.0\P07_VehicleCatalogue.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\21_Objects and Classes\P07_VehicleCatalogue\bin\Debug\net5.0\P07_VehicleCatalogue.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\21_Objects and Classes\P07_VehicleCatalogue\bin\Debug\net5.0\P07_VehicleCatalogue.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\21_Objects and Classes\P07_VehicleCatalogue\bin\Debug\net5.0\P07_VehicleCatalogue.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\21_Objects and Classes\P07_VehicleCatalogue\bin\Debug\net5.0\P07_VehicleCatalogue.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\21_Objects and Classes\P07_VehicleCatalogue\obj\Debug\net5.0\P07_VehicleCatalogue.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\21_Objects and Classes\P07_VehicleCatalogue\obj\Debug\net5.0\P07_VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Lectures\21_Objects and Classes\P07_VehicleCatalogue\obj\Debug\net5.0\P07_VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\21_Objects and Classes\P07_VehicleCatalogue\obj\Debug\net5.0\P07_VehicleCatalogue.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Lectures\21_Objects and Classes\P07_VehicleCatalogue\obj\Debug\net5.0\P07_VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\21_Objects and Classes\P07_VehicleCatalogue\obj\Debug\net5.0\P07_VehicleCatalogue.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\21_Objects and Classes\P07_VehicleCatalogue\obj\Debug\net5.0\refint\P07_VehicleCatalogue.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\21_Objects and Classes\P07_VehicleCatalogue\obj\Debug\net5.0\P07_VehicleCatalogue.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\21_Objects and Classes\P07_VehicleCatalogue\obj\Debug\net5.0\P07_VehicleCatalogue.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\21_Objects and Classes\P07_VehicleCatalogue\obj\Debug\net5.0\ref\P07_VehicleCatalogue.dll

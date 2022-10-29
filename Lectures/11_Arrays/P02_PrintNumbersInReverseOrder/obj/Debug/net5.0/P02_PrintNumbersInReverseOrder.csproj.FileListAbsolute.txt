@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P02_PrintNumbersInReverseOrder\bin\Debug\net5.0\P02_PrintNumbersInReverseOrder.exe
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P02_PrintNumbersInReverseOrder\bin\Debug\net5.0\P02_PrintNumbersInReverseOrder.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P02_PrintNumbersInReverseOrder\bin\Debug\net5.0\P02_PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P02_PrintNumbersInReverseOrder\bin\Debug\net5.0\P02_PrintNumbersInReverseOrder.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P02_PrintNumbersInReverseOrder\bin\Debug\net5.0\P02_PrintNumbersInReverseOrder.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P02_PrintNumbersInReverseOrder\bin\Debug\net5.0\P02_PrintNumbersInReverseOrder.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P02_PrintNumbersInReverseOrder\obj\Debug\net5.0\P02_PrintNumbersInReverseOrder.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P02_PrintNumbersInReverseOrder\obj\Debug\net5.0\P02_PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P02_PrintNumbersInReverseOrder\obj\Debug\net5.0\P02_PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P02_PrintNumbersInReverseOrder\obj\Debug\net5.0\P02_PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P02_PrintNumbersInReverseOrder\obj\Debug\net5.0\P02_PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P02_PrintNumbersInReverseOrder\obj\Debug\net5.0\P02_PrintNumbersInReverseOrder.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P02_PrintNumbersInReverseOrder\obj\Debug\net5.0\refint\P02_PrintNumbersInReverseOrder.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P02_PrintNumbersInReverseOrder\obj\Debug\net5.0\P02_PrintNumbersInReverseOrder.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P02_PrintNumbersInReverseOrder\obj\Debug\net5.0\P02_PrintNumbersInReverseOrder.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\11_Arrays\P02_PrintNumbersInReverseOrder\obj\Debug\net5.0\ref\P02_PrintNumbersInReverseOrder.dll

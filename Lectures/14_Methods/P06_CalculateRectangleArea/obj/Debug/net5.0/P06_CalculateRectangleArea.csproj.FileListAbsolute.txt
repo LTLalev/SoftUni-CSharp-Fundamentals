@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P06_CalculateRectangleArea\bin\Debug\net5.0\P06_CalculateRectangleArea.exe
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P06_CalculateRectangleArea\bin\Debug\net5.0\P06_CalculateRectangleArea.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P06_CalculateRectangleArea\bin\Debug\net5.0\P06_CalculateRectangleArea.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P06_CalculateRectangleArea\bin\Debug\net5.0\P06_CalculateRectangleArea.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P06_CalculateRectangleArea\bin\Debug\net5.0\P06_CalculateRectangleArea.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P06_CalculateRectangleArea\bin\Debug\net5.0\P06_CalculateRectangleArea.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P06_CalculateRectangleArea\obj\Debug\net5.0\P06_CalculateRectangleArea.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P06_CalculateRectangleArea\obj\Debug\net5.0\P06_CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P06_CalculateRectangleArea\obj\Debug\net5.0\P06_CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P06_CalculateRectangleArea\obj\Debug\net5.0\P06_CalculateRectangleArea.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P06_CalculateRectangleArea\obj\Debug\net5.0\P06_CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P06_CalculateRectangleArea\obj\Debug\net5.0\P06_CalculateRectangleArea.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P06_CalculateRectangleArea\obj\Debug\net5.0\refint\P06_CalculateRectangleArea.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P06_CalculateRectangleArea\obj\Debug\net5.0\P06_CalculateRectangleArea.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P06_CalculateRectangleArea\obj\Debug\net5.0\P06_CalculateRectangleArea.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\14_Methods\P06_CalculateRectangleArea\obj\Debug\net5.0\ref\P06_CalculateRectangleArea.dll

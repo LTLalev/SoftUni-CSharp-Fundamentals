@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P02_RepeatStrings\bin\Debug\net5.0\P02_RepeatStrings.exe
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P02_RepeatStrings\bin\Debug\net5.0\P02_RepeatStrings.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P02_RepeatStrings\bin\Debug\net5.0\P02_RepeatStrings.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P02_RepeatStrings\bin\Debug\net5.0\P02_RepeatStrings.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P02_RepeatStrings\bin\Debug\net5.0\P02_RepeatStrings.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P02_RepeatStrings\bin\Debug\net5.0\P02_RepeatStrings.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P02_RepeatStrings\obj\Debug\net5.0\P02_RepeatStrings.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P02_RepeatStrings\obj\Debug\net5.0\P02_RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P02_RepeatStrings\obj\Debug\net5.0\P02_RepeatStrings.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P02_RepeatStrings\obj\Debug\net5.0\P02_RepeatStrings.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P02_RepeatStrings\obj\Debug\net5.0\P02_RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P02_RepeatStrings\obj\Debug\net5.0\P02_RepeatStrings.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P02_RepeatStrings\obj\Debug\net5.0\refint\P02_RepeatStrings.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P02_RepeatStrings\obj\Debug\net5.0\P02_RepeatStrings.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P02_RepeatStrings\obj\Debug\net5.0\P02_RepeatStrings.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\27_Text Processing\P02_RepeatStrings\obj\Debug\net5.0\ref\P02_RepeatStrings.dll

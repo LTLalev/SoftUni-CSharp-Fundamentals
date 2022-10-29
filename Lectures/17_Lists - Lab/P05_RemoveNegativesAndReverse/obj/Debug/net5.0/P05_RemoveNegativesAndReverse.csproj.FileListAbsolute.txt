@@ -1,0 +1,16 @@
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P05_RemoveNegativesAndReverse\bin\Debug\net5.0\P05_RemoveNegativesAndReverse.exe
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P05_RemoveNegativesAndReverse\bin\Debug\net5.0\P05_RemoveNegativesAndReverse.deps.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P05_RemoveNegativesAndReverse\bin\Debug\net5.0\P05_RemoveNegativesAndReverse.runtimeconfig.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P05_RemoveNegativesAndReverse\bin\Debug\net5.0\P05_RemoveNegativesAndReverse.runtimeconfig.dev.json
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P05_RemoveNegativesAndReverse\bin\Debug\net5.0\P05_RemoveNegativesAndReverse.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P05_RemoveNegativesAndReverse\bin\Debug\net5.0\P05_RemoveNegativesAndReverse.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P05_RemoveNegativesAndReverse\obj\Debug\net5.0\P05_RemoveNegativesAndReverse.csproj.AssemblyReference.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P05_RemoveNegativesAndReverse\obj\Debug\net5.0\P05_RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P05_RemoveNegativesAndReverse\obj\Debug\net5.0\P05_RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P05_RemoveNegativesAndReverse\obj\Debug\net5.0\P05_RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P05_RemoveNegativesAndReverse\obj\Debug\net5.0\P05_RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P05_RemoveNegativesAndReverse\obj\Debug\net5.0\P05_RemoveNegativesAndReverse.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P05_RemoveNegativesAndReverse\obj\Debug\net5.0\refint\P05_RemoveNegativesAndReverse.dll
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P05_RemoveNegativesAndReverse\obj\Debug\net5.0\P05_RemoveNegativesAndReverse.pdb
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P05_RemoveNegativesAndReverse\obj\Debug\net5.0\P05_RemoveNegativesAndReverse.genruntimeconfig.cache
+C:\Programming\Programming Fundamentals - may 2022\Lectures\17_Lists - Lab\P05_RemoveNegativesAndReverse\obj\Debug\net5.0\ref\P05_RemoveNegativesAndReverse.dll
